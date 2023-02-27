@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on improving my last <a href="https://github.com/mwismann/to-do-list" target="_blank">project</a>.  
 - 🌱 I’m currently learning about ES6 best practices and Webpack. 
-- 🤝 I’m looking to collaborate on basic web development stuff.
+- 🤝 I’m looking to collaborate on basic web development activities.
 - 💻 I’m looking for help in learning about web development and JavaScript. 
 - 💬 You can ask me about anything and everything.
 - ⚡ Fun fact: I did, actually, "git gud"
