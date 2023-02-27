@@ -7,7 +7,7 @@
 
 <p> I'm a Full-Stack Development student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28px"> </p>
 
-- 🔭 I’m currently working on improving my last <a href="https://github.com/mwismann/to-do-list" target="_blank">project</a>.  
+- 🔭 I’m currently working on improving my last <a href="https://github.com/mwismann/to-do-list" target="_blank">project</a>  
 - 🌱 I’m currently learning about ES6 Best Practices and Webpack 
 - 🤝 I’m looking to collaborate on Basic Web Dev stuff
 - 💻 I’m looking for help in learning about Web Dev and JavaScript 
