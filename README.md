@@ -7,12 +7,12 @@
 
 <p> I'm a Full-Stack Development student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28px"> </p>
 
-- 🔭 I’m currently working on improving my last <a href="https://github.com/mwismann/to-do-list" target="_blank">project</a>.  
-- 🌱 I’m currently learning about ES6 best practices and Webpack. 
+- 🔭 I’m currently working on improving my last <a href="https://github.com/mwismann/react-bookstore" target="_blank">project</a>.  
+- 🌱 I’m currently learning about React and Redux. 
 - 🤝 I’m looking to collaborate on basic web development activities.
-- 💻 I’m looking for help in learning about web development and JavaScript. 
+- 💻 I’m looking for help in learning about web development and Redux. 
 - 💬 You can ask me about anything and everything.
-- ⚡ Fun fact: I did, actually, "git gud"
+- ⚡ Fun fact: I did indeed "git gud"
 
 ## Some Statistics About Me
 ![Mathias' github stats](https://github-readme-stats.vercel.app/api?username=mwismann&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
