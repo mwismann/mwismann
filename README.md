@@ -7,7 +7,7 @@
 
 <p> I'm a Full-Stack Development student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28px"> </p>
 
-- 🔭 I’m currently working on improving my last <a href="https://github.com/mwismann/react-bookstore" target="_blank">project</a>.  
+- 🔭 I’m currently working on improving my last <a href="https://github.com/mwismann/gamedex-app" target="_blank">project</a>.  
 - 🌱 I’m currently learning about React and Redux. 
 - 🤝 I’m looking to collaborate on basic web development activities.
 - 💻 I’m looking for help in learning about web development and Redux. 
